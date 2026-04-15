@@ -1,0 +1,763 @@
+2026-04-09 13:17:35 | nagase_tool.database      | INFO    | データベーススキーマをv2に移行中…
+2026-04-09 13:17:35 | nagase_tool.database      | INFO    | スキーマ移行完了
+2026-04-09 13:17:35 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:17:35 | nagase_tool.indexer       | INFO    | 6件の新規図面を検出
+2026-04-09 13:17:35 | nagase_tool.indexer       | INFO    |   [1/6] CA-20L改.pdf
+2026-04-09 13:17:38 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:17:41 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:17:43 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:17:46 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:17:48 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:17:50 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:17:50 | nagase_tool.ocr_extractor | INFO    | Tesseract未検出 — OCRフォールバック無効
+2026-04-09 13:17:50 | nagase_tool.indexer       | INFO    |   [2/6] JXRM-NRK-SWP-B-030.pdf
+2026-04-09 13:17:52 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:17:52 | nagase_tool.indexer       | INFO    |   [3/6] ND-030S (2).pdf
+2026-04-09 13:17:53 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:17:55 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:17:56 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:17:57 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:17:57 | nagase_tool.indexer       | INFO    |   [4/6] ND-030S.pdf
+2026-04-09 13:17:59 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:18:00 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:18:02 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:18:03 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:18:03 | nagase_tool.indexer       | INFO    |   [5/6] ND-100S (2).pdf
+2026-04-09 13:18:04 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:18:06 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:18:07 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:18:09 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:18:09 | nagase_tool.indexer       | INFO    |   [6/6] ND-100S.pdf
+2026-04-09 13:18:10 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:18:12 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:18:13 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:18:14 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:18:14 | nagase_tool.indexer       | WARNING | ベクトルなし — FAISSインデックス未構築
+2026-04-09 13:18:14 | nagase_tool.indexer       | INFO    | 自動同期完了: 6件を処理
+2026-04-09 13:18:15 | nagase_tool.app           | INFO    | 起動時自動同期: 6件を処理
+2026-04-09 13:18:15 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:21:00 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:21:00 | nagase_tool.indexer       | INFO    | データベース初期化完了
+2026-04-09 13:21:00 | nagase_tool.indexer       | INFO    | [Step 1/5] 図面フォルダをスキャン中…
+2026-04-09 13:21:00 | nagase_tool.indexer       | INFO    |   → 6件の図面PDFを検出
+2026-04-09 13:21:00 | nagase_tool.indexer       | INFO    | [Step 2/5] 工程フォルダをスキャン中…
+2026-04-09 13:21:00 | nagase_tool.indexer       | INFO    |   → 4件の工程表PDFを検出
+2026-04-09 13:21:00 | nagase_tool.indexer       | INFO    |   → 新規 0件をDB登録
+2026-04-09 13:21:00 | nagase_tool.indexer       | INFO    | [Step 3/5] 特徴量を抽出中…
+2026-04-09 13:21:00 | nagase_tool.image_processing | ERROR   | PDF変換エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\CA-20L改.pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\CA-20L<e6><94><b9>.pdf': No error.
+
+2026-04-09 13:21:00 | nagase_tool.indexer       | WARNING |   [1/35] CA-20L改.pdf p.1 — スキップ
+2026-04-09 13:21:00 | nagase_tool.image_processing | ERROR   | PDF変換エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\CA-20L改.pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\CA-20L<e6><94><b9>.pdf': No error.
+
+2026-04-09 13:21:00 | nagase_tool.indexer       | WARNING |   [2/35] CA-20L改.pdf p.1 — スキップ
+2026-04-09 13:21:02 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:02 | nagase_tool.indexer       | INFO    |   [3/35] CA-20L改.pdf p.1 — 完了
+2026-04-09 13:21:04 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:04 | nagase_tool.indexer       | INFO    |   [4/35] CA-20L改.pdf p.2 — 完了
+2026-04-09 13:21:06 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:06 | nagase_tool.indexer       | INFO    |   [5/35] CA-20L改.pdf p.3 — 完了
+2026-04-09 13:21:08 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:08 | nagase_tool.indexer       | INFO    |   [6/35] CA-20L改.pdf p.4 — 完了
+2026-04-09 13:21:10 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:10 | nagase_tool.indexer       | INFO    |   [7/35] CA-20L改.pdf p.5 — 完了
+2026-04-09 13:21:12 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:12 | nagase_tool.indexer       | INFO    |   [8/35] CA-20L改.pdf p.6 — 完了
+2026-04-09 13:21:12 | nagase_tool.image_processing | ERROR   | PDF変換エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\JXRM-NRK-SWP-B-030.pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\JXRM-NRK-SWP-B-030.pdf': No error.
+
+2026-04-09 13:21:12 | nagase_tool.indexer       | WARNING |   [9/35] JXRM-NRK-SWP-B-030.pdf p.1 — スキップ
+2026-04-09 13:21:12 | nagase_tool.image_processing | ERROR   | PDF変換エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\JXRM-NRK-SWP-B-030.pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\JXRM-NRK-SWP-B-030.pdf': No error.
+
+2026-04-09 13:21:12 | nagase_tool.indexer       | WARNING |   [10/35] JXRM-NRK-SWP-B-030.pdf p.1 — スキップ
+2026-04-09 13:21:13 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:13 | nagase_tool.indexer       | INFO    |   [11/35] JXRM-NRK-SWP-B-030.pdf p.1 — 完了
+2026-04-09 13:21:13 | nagase_tool.image_processing | ERROR   | PDF変換エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S (2).pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\ND-030S (2).pdf': No error.
+
+2026-04-09 13:21:13 | nagase_tool.indexer       | WARNING |   [12/35] ND-030S (2).pdf p.1 — スキップ
+2026-04-09 13:21:13 | nagase_tool.image_processing | ERROR   | PDF変換エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S (2).pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\ND-030S (2).pdf': No error.
+
+2026-04-09 13:21:13 | nagase_tool.indexer       | WARNING |   [13/35] ND-030S (2).pdf p.1 — スキップ
+2026-04-09 13:21:14 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:14 | nagase_tool.indexer       | INFO    |   [14/35] ND-030S (2).pdf p.1 — 完了
+2026-04-09 13:21:15 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:15 | nagase_tool.indexer       | INFO    |   [15/35] ND-030S (2).pdf p.2 — 完了
+2026-04-09 13:21:16 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:16 | nagase_tool.indexer       | INFO    |   [16/35] ND-030S (2).pdf p.3 — 完了
+2026-04-09 13:21:17 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:17 | nagase_tool.indexer       | INFO    |   [17/35] ND-030S (2).pdf p.4 — 完了
+2026-04-09 13:21:17 | nagase_tool.image_processing | ERROR   | PDF変換エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S.pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\ND-030S.pdf': No error.
+
+2026-04-09 13:21:17 | nagase_tool.indexer       | WARNING |   [18/35] ND-030S.pdf p.1 — スキップ
+2026-04-09 13:21:17 | nagase_tool.image_processing | ERROR   | PDF変換エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S.pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\ND-030S.pdf': No error.
+
+2026-04-09 13:21:17 | nagase_tool.indexer       | WARNING |   [19/35] ND-030S.pdf p.1 — スキップ
+2026-04-09 13:21:18 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:18 | nagase_tool.indexer       | INFO    |   [20/35] ND-030S.pdf p.1 — 完了
+2026-04-09 13:21:19 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:19 | nagase_tool.indexer       | INFO    |   [21/35] ND-030S.pdf p.2 — 完了
+2026-04-09 13:21:20 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:20 | nagase_tool.indexer       | INFO    |   [22/35] ND-030S.pdf p.3 — 完了
+2026-04-09 13:21:21 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:21 | nagase_tool.indexer       | INFO    |   [23/35] ND-030S.pdf p.4 — 完了
+2026-04-09 13:21:21 | nagase_tool.image_processing | ERROR   | PDF変換エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S (2).pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\ND-100S (2).pdf': No error.
+
+2026-04-09 13:21:21 | nagase_tool.indexer       | WARNING |   [24/35] ND-100S (2).pdf p.1 — スキップ
+2026-04-09 13:21:21 | nagase_tool.image_processing | ERROR   | PDF変換エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S (2).pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\ND-100S (2).pdf': No error.
+
+2026-04-09 13:21:21 | nagase_tool.indexer       | WARNING |   [25/35] ND-100S (2).pdf p.1 — スキップ
+2026-04-09 13:21:22 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:22 | nagase_tool.indexer       | INFO    |   [26/35] ND-100S (2).pdf p.1 — 完了
+2026-04-09 13:21:23 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:23 | nagase_tool.indexer       | INFO    |   [27/35] ND-100S (2).pdf p.2 — 完了
+2026-04-09 13:21:24 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:24 | nagase_tool.indexer       | INFO    |   [28/35] ND-100S (2).pdf p.3 — 完了
+2026-04-09 13:21:25 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:25 | nagase_tool.indexer       | INFO    |   [29/35] ND-100S (2).pdf p.4 — 完了
+2026-04-09 13:21:25 | nagase_tool.image_processing | ERROR   | PDF変換エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S.pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\ND-100S.pdf': No error.
+
+2026-04-09 13:21:25 | nagase_tool.indexer       | WARNING |   [30/35] ND-100S.pdf p.1 — スキップ
+2026-04-09 13:21:25 | nagase_tool.image_processing | ERROR   | PDF変換エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S.pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\ND-100S.pdf': No error.
+
+2026-04-09 13:21:25 | nagase_tool.indexer       | WARNING |   [31/35] ND-100S.pdf p.1 — スキップ
+2026-04-09 13:21:26 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:26 | nagase_tool.indexer       | INFO    |   [32/35] ND-100S.pdf p.1 — 完了
+2026-04-09 13:21:28 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:28 | nagase_tool.indexer       | INFO    |   [33/35] ND-100S.pdf p.2 — 完了
+2026-04-09 13:21:29 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:29 | nagase_tool.indexer       | INFO    |   [34/35] ND-100S.pdf p.3 — 完了
+2026-04-09 13:21:30 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:21:30 | nagase_tool.indexer       | INFO    |   [35/35] ND-100S.pdf p.4 — 完了
+2026-04-09 13:21:30 | nagase_tool.indexer       | INFO    | [Step 4/5] 材質・板厚を抽出中…
+2026-04-09 13:21:30 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\CA-20L改.pdf): no such file: 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\CA-20L改.pdf'
+2026-04-09 13:21:30 | nagase_tool.ocr_extractor | INFO    | Tesseract未検出 — OCRフォールバック無効
+2026-04-09 13:21:30 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\CA-20L改.pdf): no such file: 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\CA-20L改.pdf'
+2026-04-09 13:21:30 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\JXRM-NRK-SWP-B-030.pdf): no such file: 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\JXRM-NRK-SWP-B-030.pdf'
+2026-04-09 13:21:30 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\JXRM-NRK-SWP-B-030.pdf): no such file: 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\JXRM-NRK-SWP-B-030.pdf'
+2026-04-09 13:21:30 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S (2).pdf): no such file: 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S (2).pdf'
+2026-04-09 13:21:30 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S (2).pdf): no such file: 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S (2).pdf'
+2026-04-09 13:21:30 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S.pdf): no such file: 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S.pdf'
+2026-04-09 13:21:30 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S.pdf): no such file: 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S.pdf'
+2026-04-09 13:21:30 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S (2).pdf): no such file: 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S (2).pdf'
+2026-04-09 13:21:30 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S (2).pdf): no such file: 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S (2).pdf'
+2026-04-09 13:21:30 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S.pdf): no such file: 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S.pdf'
+2026-04-09 13:21:30 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S.pdf): no such file: 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S.pdf'
+2026-04-09 13:21:30 | nagase_tool.indexer       | INFO    |   → 0件の属性を新たに抽出
+2026-04-09 13:21:30 | nagase_tool.indexer       | INFO    | [Step 5/5] FAISSインデックスを構築中…
+2026-04-09 13:21:30 | nagase_tool.indexer       | WARNING | ベクトルなし — FAISSインデックス未構築
+2026-04-09 13:21:30 | nagase_tool.indexer       | INFO    | インデクシング完了 — 登録:35件 工程紐付け:23件 材質取得:0件
+2026-04-09 13:21:45 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:21:45 | nagase_tool.indexer       | INFO    | 新規図面なし — スキップ
+2026-04-09 13:21:45 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:22:07 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:22:07 | nagase_tool.indexer       | INFO    | データベース初期化完了
+2026-04-09 13:22:07 | nagase_tool.indexer       | INFO    | [Step 1/5] 図面フォルダをスキャン中…
+2026-04-09 13:22:07 | nagase_tool.indexer       | INFO    |   → 6件の図面PDFを検出
+2026-04-09 13:22:07 | nagase_tool.indexer       | INFO    | [Step 2/5] 工程フォルダをスキャン中…
+2026-04-09 13:22:07 | nagase_tool.indexer       | INFO    |   → 4件の工程表PDFを検出
+2026-04-09 13:22:07 | nagase_tool.indexer       | INFO    |   → 新規 0件をDB登録
+2026-04-09 13:22:07 | nagase_tool.indexer       | INFO    | [Step 3/5] 特徴量を抽出中…
+2026-04-09 13:22:07 | nagase_tool.image_processing | ERROR   | PDF変換エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\CA-20L改.pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\CA-20L<e6><94><b9>.pdf': No error.
+
+2026-04-09 13:22:07 | nagase_tool.indexer       | WARNING |   [1/35] CA-20L改.pdf p.1 — スキップ
+2026-04-09 13:22:07 | nagase_tool.image_processing | ERROR   | PDF変換エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\CA-20L改.pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\CA-20L<e6><94><b9>.pdf': No error.
+
+2026-04-09 13:22:07 | nagase_tool.indexer       | WARNING |   [2/35] CA-20L改.pdf p.1 — スキップ
+2026-04-09 13:22:09 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:09 | nagase_tool.indexer       | INFO    |   [3/35] CA-20L改.pdf p.1 — 完了
+2026-04-09 13:22:11 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:11 | nagase_tool.indexer       | INFO    |   [4/35] CA-20L改.pdf p.2 — 完了
+2026-04-09 13:22:13 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:13 | nagase_tool.indexer       | INFO    |   [5/35] CA-20L改.pdf p.3 — 完了
+2026-04-09 13:22:14 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:14 | nagase_tool.indexer       | INFO    |   [6/35] CA-20L改.pdf p.4 — 完了
+2026-04-09 13:22:16 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:16 | nagase_tool.indexer       | INFO    |   [7/35] CA-20L改.pdf p.5 — 完了
+2026-04-09 13:22:18 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:18 | nagase_tool.indexer       | INFO    |   [8/35] CA-20L改.pdf p.6 — 完了
+2026-04-09 13:22:18 | nagase_tool.image_processing | ERROR   | PDF変換エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\JXRM-NRK-SWP-B-030.pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\JXRM-NRK-SWP-B-030.pdf': No error.
+
+2026-04-09 13:22:18 | nagase_tool.indexer       | WARNING |   [9/35] JXRM-NRK-SWP-B-030.pdf p.1 — スキップ
+2026-04-09 13:22:18 | nagase_tool.image_processing | ERROR   | PDF変換エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\JXRM-NRK-SWP-B-030.pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\JXRM-NRK-SWP-B-030.pdf': No error.
+
+2026-04-09 13:22:18 | nagase_tool.indexer       | WARNING |   [10/35] JXRM-NRK-SWP-B-030.pdf p.1 — スキップ
+2026-04-09 13:22:19 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:19 | nagase_tool.indexer       | INFO    |   [11/35] JXRM-NRK-SWP-B-030.pdf p.1 — 完了
+2026-04-09 13:22:19 | nagase_tool.image_processing | ERROR   | PDF変換エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S (2).pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\ND-030S (2).pdf': No error.
+
+2026-04-09 13:22:19 | nagase_tool.indexer       | WARNING |   [12/35] ND-030S (2).pdf p.1 — スキップ
+2026-04-09 13:22:19 | nagase_tool.image_processing | ERROR   | PDF変換エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S (2).pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\ND-030S (2).pdf': No error.
+
+2026-04-09 13:22:19 | nagase_tool.indexer       | WARNING |   [13/35] ND-030S (2).pdf p.1 — スキップ
+2026-04-09 13:22:20 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:20 | nagase_tool.indexer       | INFO    |   [14/35] ND-030S (2).pdf p.1 — 完了
+2026-04-09 13:22:21 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:21 | nagase_tool.indexer       | INFO    |   [15/35] ND-030S (2).pdf p.2 — 完了
+2026-04-09 13:22:22 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:22 | nagase_tool.indexer       | INFO    |   [16/35] ND-030S (2).pdf p.3 — 完了
+2026-04-09 13:22:23 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:23 | nagase_tool.indexer       | INFO    |   [17/35] ND-030S (2).pdf p.4 — 完了
+2026-04-09 13:22:23 | nagase_tool.image_processing | ERROR   | PDF変換エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S.pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\ND-030S.pdf': No error.
+
+2026-04-09 13:22:23 | nagase_tool.indexer       | WARNING |   [18/35] ND-030S.pdf p.1 — スキップ
+2026-04-09 13:22:23 | nagase_tool.image_processing | ERROR   | PDF変換エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S.pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\ND-030S.pdf': No error.
+
+2026-04-09 13:22:23 | nagase_tool.indexer       | WARNING |   [19/35] ND-030S.pdf p.1 — スキップ
+2026-04-09 13:22:24 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:24 | nagase_tool.indexer       | INFO    |   [20/35] ND-030S.pdf p.1 — 完了
+2026-04-09 13:22:25 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:25 | nagase_tool.indexer       | INFO    |   [21/35] ND-030S.pdf p.2 — 完了
+2026-04-09 13:22:26 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:26 | nagase_tool.indexer       | INFO    |   [22/35] ND-030S.pdf p.3 — 完了
+2026-04-09 13:22:27 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:27 | nagase_tool.indexer       | INFO    |   [23/35] ND-030S.pdf p.4 — 完了
+2026-04-09 13:22:27 | nagase_tool.image_processing | ERROR   | PDF変換エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S (2).pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\ND-100S (2).pdf': No error.
+
+2026-04-09 13:22:27 | nagase_tool.indexer       | WARNING |   [24/35] ND-100S (2).pdf p.1 — スキップ
+2026-04-09 13:22:27 | nagase_tool.image_processing | ERROR   | PDF変換エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S (2).pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\ND-100S (2).pdf': No error.
+
+2026-04-09 13:22:27 | nagase_tool.indexer       | WARNING |   [25/35] ND-100S (2).pdf p.1 — スキップ
+2026-04-09 13:22:29 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:29 | nagase_tool.indexer       | INFO    |   [26/35] ND-100S (2).pdf p.1 — 完了
+2026-04-09 13:22:30 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:30 | nagase_tool.indexer       | INFO    |   [27/35] ND-100S (2).pdf p.2 — 完了
+2026-04-09 13:22:31 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:31 | nagase_tool.indexer       | INFO    |   [28/35] ND-100S (2).pdf p.3 — 完了
+2026-04-09 13:22:32 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:32 | nagase_tool.indexer       | INFO    |   [29/35] ND-100S (2).pdf p.4 — 完了
+2026-04-09 13:22:32 | nagase_tool.image_processing | ERROR   | PDF変換エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S.pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\ND-100S.pdf': No error.
+
+2026-04-09 13:22:32 | nagase_tool.indexer       | WARNING |   [30/35] ND-100S.pdf p.1 — スキップ
+2026-04-09 13:22:32 | nagase_tool.image_processing | ERROR   | PDF変換エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S.pdf, p.1): Unable to get page count.
+I/O Error: Couldn't open file 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\<e3><83><8a><e3><82><ac><e3><82><bb><e3><80><80><e9><a1><9e><e4><bc><bc><e5><9b><b3><e9><9d><a2><e6><a4><9c><e7><b4><a2><e3><83><86><e3><82><b9><e3><83><88><e7><94><a8><e3><80><80><e5><9b><b3><e9><9d><a2>\<e5><9b><b3><e9><9d><a2><e4><b8><80><e5><bc><8f>\ND-100S.pdf': No error.
+
+2026-04-09 13:22:32 | nagase_tool.indexer       | WARNING |   [31/35] ND-100S.pdf p.1 — スキップ
+2026-04-09 13:22:33 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:33 | nagase_tool.indexer       | INFO    |   [32/35] ND-100S.pdf p.1 — 完了
+2026-04-09 13:22:34 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:34 | nagase_tool.indexer       | INFO    |   [33/35] ND-100S.pdf p.2 — 完了
+2026-04-09 13:22:35 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:35 | nagase_tool.indexer       | INFO    |   [34/35] ND-100S.pdf p.3 — 完了
+2026-04-09 13:22:36 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:22:36 | nagase_tool.indexer       | INFO    |   [35/35] ND-100S.pdf p.4 — 完了
+2026-04-09 13:22:36 | nagase_tool.indexer       | INFO    | [Step 4/5] 材質・板厚を抽出中…
+2026-04-09 13:22:36 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\CA-20L改.pdf): no such file: 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\CA-20L改.pdf'
+2026-04-09 13:22:36 | nagase_tool.ocr_extractor | INFO    | Tesseract未検出 — OCRフォールバック無効
+2026-04-09 13:22:36 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\CA-20L改.pdf): no such file: 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\CA-20L改.pdf'
+2026-04-09 13:22:36 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\JXRM-NRK-SWP-B-030.pdf): no such file: 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\JXRM-NRK-SWP-B-030.pdf'
+2026-04-09 13:22:36 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\JXRM-NRK-SWP-B-030.pdf): no such file: 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\JXRM-NRK-SWP-B-030.pdf'
+2026-04-09 13:22:36 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S (2).pdf): no such file: 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S (2).pdf'
+2026-04-09 13:22:36 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S (2).pdf): no such file: 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S (2).pdf'
+2026-04-09 13:22:36 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S.pdf): no such file: 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S.pdf'
+2026-04-09 13:22:36 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S.pdf): no such file: 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-030S.pdf'
+2026-04-09 13:22:36 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S (2).pdf): no such file: 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S (2).pdf'
+2026-04-09 13:22:36 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S (2).pdf): no such file: 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S (2).pdf'
+2026-04-09 13:22:36 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S.pdf): no such file: 'c:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S.pdf'
+2026-04-09 13:22:36 | nagase_tool.ocr_extractor | WARNING | PyMuPDFテキスト抽出エラー (C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S.pdf): no such file: 'C:\Users\naoto\OneDrive\Desktop\Python.app\nagase_tool.app\nagase_tool.app\ナガセ　類似図面検索テスト用　図面\図面一式\ND-100S.pdf'
+2026-04-09 13:22:36 | nagase_tool.indexer       | INFO    |   → 0件の属性を新たに抽出
+2026-04-09 13:22:36 | nagase_tool.indexer       | INFO    | [Step 5/5] FAISSインデックスを構築中…
+2026-04-09 13:22:37 | nagase_tool.indexer       | WARNING | ベクトルなし — FAISSインデックス未構築
+2026-04-09 13:22:37 | nagase_tool.indexer       | INFO    | インデクシング完了 — 登録:35件 工程紐付け:23件 材質取得:0件
+2026-04-09 13:27:13 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:27:13 | nagase_tool.indexer       | INFO    | データベース初期化完了
+2026-04-09 13:27:13 | nagase_tool.indexer       | INFO    | [Step 1/5] 図面フォルダをスキャン中…
+2026-04-09 13:27:13 | nagase_tool.indexer       | INFO    |   → 6件の図面PDFを検出
+2026-04-09 13:27:13 | nagase_tool.indexer       | INFO    | [Step 2/5] 工程フォルダをスキャン中…
+2026-04-09 13:27:13 | nagase_tool.indexer       | INFO    |   → 4件の工程表PDFを検出
+2026-04-09 13:27:13 | nagase_tool.indexer       | INFO    |   → 新規 6件をDB登録
+2026-04-09 13:27:13 | nagase_tool.indexer       | INFO    | [Step 3/5] 特徴量を抽出中…
+2026-04-09 13:27:15 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:27:15 | nagase_tool.indexer       | INFO    |   [1/6] CA-20L改.pdf p.1 — 完了
+2026-04-09 13:27:16 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:27:16 | nagase_tool.indexer       | INFO    |   [2/6] JXRM-NRK-SWP-B-030.pdf p.1 — 完了
+2026-04-09 13:27:17 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:27:17 | nagase_tool.indexer       | INFO    |   [3/6] ND-030S (2).pdf p.1 — 完了
+2026-04-09 13:27:18 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:27:18 | nagase_tool.indexer       | INFO    |   [4/6] ND-030S.pdf p.1 — 完了
+2026-04-09 13:27:19 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:27:19 | nagase_tool.indexer       | INFO    |   [5/6] ND-100S (2).pdf p.1 — 完了
+2026-04-09 13:27:20 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:27:20 | nagase_tool.indexer       | INFO    |   [6/6] ND-100S.pdf p.1 — 完了
+2026-04-09 13:27:20 | nagase_tool.indexer       | INFO    | [Step 4/5] 材質・板厚を抽出中…
+2026-04-09 13:27:20 | nagase_tool.ocr_extractor | INFO    | Tesseract未検出 — OCRフォールバック無効
+2026-04-09 13:27:20 | nagase_tool.indexer       | INFO    |   → 0件の属性を新たに抽出
+2026-04-09 13:27:20 | nagase_tool.indexer       | INFO    | [Step 5/5] FAISSインデックスを構築中…
+2026-04-09 13:27:20 | nagase_tool.indexer       | WARNING | ベクトルなし — FAISSインデックス未構築
+2026-04-09 13:27:20 | nagase_tool.indexer       | INFO    | インデクシング完了 — 登録:6件 工程紐付け:4件 材質取得:0件
+2026-04-09 13:28:05 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:28:05 | nagase_tool.indexer       | INFO    | 新規図面なし — スキップ
+2026-04-09 13:28:05 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:28:52 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:29:03 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:29:03 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:29:05 | nagase_tool.ocr_extractor | INFO    | Tesseract未検出 — OCRフォールバック無効
+2026-04-09 13:34:15 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:34:15 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:34:15 | nagase_tool.indexer       | INFO    | 新規図面なし — スキップ
+2026-04-09 13:34:15 | nagase_tool.indexer       | INFO    | 新規図面なし — スキップ
+2026-04-09 13:34:15 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:34:15 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:34:27 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:34:27 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:34:32 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:34:32 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:34:32 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:34:32 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:34:34 | nagase_tool.ocr_extractor | INFO    | Tesseract未検出 — OCRフォールバック無効
+2026-04-09 13:34:34 | nagase_tool.ocr_extractor | INFO    | Tesseract未検出 — OCRフォールバック無効
+2026-04-09 13:37:01 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:37:01 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:37:01 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:37:01 | nagase_tool.indexer       | INFO    | 新規図面なし — スキップ
+2026-04-09 13:37:01 | nagase_tool.indexer       | INFO    | 新規図面なし — スキップ
+2026-04-09 13:37:01 | nagase_tool.indexer       | INFO    | 新規図面なし — スキップ
+2026-04-09 13:37:01 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:37:01 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:37:01 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:37:10 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:37:10 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:37:10 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:37:18 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:37:18 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:37:18 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 13:37:18 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:37:18 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:37:18 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: No module named 'sentence_transformers'
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+2026-04-09 13:37:20 | nagase_tool.ocr_extractor | INFO    | Tesseract未検出 — OCRフォールバック無効
+2026-04-09 13:37:20 | nagase_tool.ocr_extractor | INFO    | Tesseract未検出 — OCRフォールバック無効
+2026-04-09 13:37:20 | nagase_tool.ocr_extractor | INFO    | Tesseract未検出 — OCRフォールバック無効
+2026-04-09 14:04:25 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 14:04:25 | nagase_tool.indexer       | INFO    | データベース初期化完了
+2026-04-09 14:04:25 | nagase_tool.indexer       | INFO    | [Step 1/5] 図面フォルダをスキャン中…
+2026-04-09 14:04:25 | nagase_tool.indexer       | INFO    |   → 6件の図面PDFを検出
+2026-04-09 14:04:25 | nagase_tool.indexer       | INFO    | [Step 2/5] 工程フォルダをスキャン中…
+2026-04-09 14:04:25 | nagase_tool.indexer       | INFO    |   → 4件の工程表PDFを検出
+2026-04-09 14:04:25 | nagase_tool.indexer       | INFO    |   → 新規 6件をDB登録
+2026-04-09 14:04:25 | nagase_tool.indexer       | INFO    | [Step 3/5] 特徴量を抽出中…
+2026-04-09 14:05:01 | nagase_tool.image_processing | ERROR   | CLIPモデル読み込み失敗: DLL load failed while importing _biasedurn: アプリケーション制御ポリシーによってこのファイルがブロックされました。
+Traceback (most recent call last):
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\nagase_tool.app\modules\image_processing.py", line 25, in get_clip_model
+    from sentence_transformers import SentenceTransformer
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\env\Lib\site-packages\sentence_transformers\__init__.py", line 10, in <module>
+    from sentence_transformers.backend import (
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\env\Lib\site-packages\sentence_transformers\backend\__init__.py", line 5, in <module>
+    from .quantize import export_dynamic_quantized_onnx_model, export_static_quantized_openvino_model
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\env\Lib\site-packages\sentence_transformers\backend\quantize.py", line 7, in <module>
+    from sentence_transformers.util import disable_datasets_caching, is_datasets_available
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\env\Lib\site-packages\sentence_transformers\util\__init__.py", line 15, in <module>
+    from .retrieval import (
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\env\Lib\site-packages\sentence_transformers\util\retrieval.py", line 14, in <module>
+    from .similarity import cos_sim
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\env\Lib\site-packages\sentence_transformers\util\similarity.py", line 5, in <module>
+    from sklearn.metrics import pairwise_distances
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\env\Lib\site-packages\sklearn\__init__.py", line 70, in <module>
+    from sklearn.base import clone  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\env\Lib\site-packages\sklearn\base.py", line 19, in <module>
+    from sklearn.utils._metadata_requests import _MetadataRequester, _routing_enabled
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\env\Lib\site-packages\sklearn\utils\__init__.py", line 9, in <module>
+    from sklearn.utils._chunking import gen_batches, gen_even_slices
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\env\Lib\site-packages\sklearn\utils\_chunking.py", line 11, in <module>
+    from sklearn.utils._param_validation import Interval, validate_params
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\env\Lib\site-packages\sklearn\utils\_param_validation.py", line 17, in <module>
+    from sklearn.utils.validation import _is_arraylike_not_scalar
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\env\Lib\site-packages\sklearn\utils\validation.py", line 24, in <module>
+    from sklearn.utils._array_api import (
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\env\Lib\site-packages\sklearn\utils\_array_api.py", line 20, in <module>
+    from sklearn.utils.fixes import parse_version
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\env\Lib\site-packages\sklearn\utils\fixes.py", line 16, in <module>
+    import scipy.stats
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\env\Lib\site-packages\scipy\stats\__init__.py", line 628, in <module>
+    from ._stats_py import *
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\env\Lib\site-packages\scipy\stats\_stats_py.py", line 49, in <module>
+    from . import distributions
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\env\Lib\site-packages\scipy\stats\distributions.py", line 11, in <module>
+    from . import _discrete_distns
+  File "C:\Users\naoto\Python_tool_library\nagase_tool.app\env\Lib\site-packages\scipy\stats\_discrete_distns.py", line 22, in <module>
+    from ._biasedurn import (_PyFishersNCHypergeometric,
+ImportError: DLL load failed while importing _biasedurn: アプリケーション制御ポリシーによってこのファイルがブロックされました。
+2026-04-09 14:05:01 | nagase_tool.indexer       | INFO    |   [1/6] CA-20L改.pdf p.1 — 完了
+2026-04-09 14:05:39 | nagase_tool.image_processing | INFO    | CLIPモデル (clip-ViT-B-32) を読み込み中…
+2026-04-09 14:05:43 | nagase_tool.image_processing | INFO    | CLIPモデル読み込み完了
+2026-04-09 14:05:44 | nagase_tool.indexer       | INFO    |   [2/6] JXRM-NRK-SWP-B-030.pdf p.1 — 完了
+2026-04-09 14:05:46 | nagase_tool.indexer       | INFO    |   [3/6] ND-030S (2).pdf p.1 — 完了
+2026-04-09 14:05:49 | nagase_tool.indexer       | INFO    |   [4/6] ND-030S.pdf p.1 — 完了
+2026-04-09 14:05:51 | nagase_tool.indexer       | INFO    |   [5/6] ND-100S (2).pdf p.1 — 完了
+2026-04-09 14:05:54 | nagase_tool.indexer       | INFO    |   [6/6] ND-100S.pdf p.1 — 完了
+2026-04-09 14:05:54 | nagase_tool.indexer       | INFO    | [Step 4/5] 材質・板厚を抽出中…
+2026-04-09 14:05:54 | nagase_tool.ocr_extractor | INFO    | Tesseract未検出 — OCRフォールバック無効
+2026-04-09 14:05:54 | nagase_tool.indexer       | INFO    |   → 0件の属性を新たに抽出
+2026-04-09 14:05:54 | nagase_tool.indexer       | INFO    | [Step 5/5] FAISSインデックスを構築中…
+2026-04-09 14:05:54 | nagase_tool.vector_index  | INFO    | FAISSインデックス構築完了: 5件
+2026-04-09 14:05:54 | nagase_tool.vector_index  | INFO    | FAISSインデックス保存完了: 5件
+2026-04-09 14:05:54 | nagase_tool.indexer       | INFO    | FAISSインデックス再構築完了: 5件
+2026-04-09 14:05:54 | nagase_tool.indexer       | INFO    | インデクシング完了 — 登録:6件 工程紐付け:4件 材質取得:0件
+2026-04-09 14:12:37 | nagase_tool.database      | INFO    | データベース初期化完了
+2026-04-09 14:12:37 | nagase_tool.indexer       | INFO    | データベース初期化完了
+2026-04-09 14:12:37 | nagase_tool.indexer       | INFO    | [Step 1/5] 図面フォルダをスキャン中…
+2026-04-09 14:12:37 | nagase_tool.indexer       | INFO    |   → 6件の図面PDFを検出
+2026-04-09 14:12:37 | nagase_tool.indexer       | INFO    | [Step 2/5] 工程フォルダをスキャン中…
+2026-04-09 14:12:37 | nagase_tool.indexer       | INFO    |   → 4件の工程表PDFを検出
+2026-04-09 14:12:37 | nagase_tool.indexer       | INFO    |   → 新規 0件をDB登録
+2026-04-09 14:12:37 | nagase_tool.indexer       | INFO    | [Step 3/5] 特徴量を抽出中…
+2026-04-09 14:12:47 | nagase_tool.image_processing | INFO    | CLIPモデル (clip-ViT-B-32) を読み込み中…
+2026-04-09 14:12:51 | nagase_tool.image_processing | INFO    | CLIPモデル読み込み完了
+2026-04-09 14:12:51 | nagase_tool.indexer       | INFO    |   [1/6] CA-20L改.pdf p.1 — 完了
+2026-04-09 14:12:51 | nagase_tool.indexer       | INFO    |   [2/6] JXRM-NRK-SWP-B-030.pdf p.1 — キャッシュ済み
+2026-04-09 14:12:51 | nagase_tool.indexer       | INFO    |   [3/6] ND-030S (2).pdf p.1 — キャッシュ済み
+2026-04-09 14:12:51 | nagase_tool.indexer       | INFO    |   [4/6] ND-030S.pdf p.1 — キャッシュ済み
+2026-04-09 14:12:51 | nagase_tool.indexer       | INFO    |   [5/6] ND-100S (2).pdf p.1 — キャッシュ済み
+2026-04-09 14:12:51 | nagase_tool.indexer       | INFO    |   [6/6] ND-100S.pdf p.1 — キャッシュ済み
+2026-04-09 14:12:51 | nagase_tool.indexer       | INFO    | [Step 4/5] 材質・板厚を抽出中…
+2026-04-09 14:12:51 | nagase_tool.ocr_extractor | INFO    | Tesseract未検出 — OCRフォールバック無効
+2026-04-09 14:12:51 | nagase_tool.indexer       | INFO    |   → 0件の属性を新たに抽出
+2026-04-09 14:12:51 | nagase_tool.indexer       | INFO    | [Step 5/5] FAISSインデックスを構築中…
+2026-04-09 14:12:51 | nagase_tool.vector_index  | INFO    | FAISSインデックス構築完了: 6件
+2026-04-09 14:12:51 | nagase_tool.vector_index  | INFO    | FAISSインデックス保存完了: 6件
+2026-04-09 14:12:51 | nagase_tool.indexer       | INFO    | FAISSインデックス再構築完了: 6件
+2026-04-09 14:12:51 | nagase_tool.indexer       | INFO    | インデクシング完了 — 登録:6件 工程紐付け:4件 材質取得:0件
