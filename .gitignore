@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+*.egg-info/
+
+# 環境変数・秘密鍵
+.env
+credentials.json
+*-service-account*.json
+secrets/
+
+# ログ・一時ファイル
+logs/
+*.log
+contact_log.txt
+flask_out.txt
+
+# データベース（ケースバイケース）
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
