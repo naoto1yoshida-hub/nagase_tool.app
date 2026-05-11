@@ -18,6 +18,8 @@ def _check_tesseract():
     global _tesseract_available
     if _tesseract_available is None:
         try:
+            from modules import tesseract_setup
+            tesseract_setup.configure()
             import pytesseract
             pytesseract.get_tesseract_version()
             _tesseract_available = True

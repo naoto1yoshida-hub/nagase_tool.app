@@ -19,6 +19,8 @@ def check_poppler():
 def check_tesseract():
     """Tesseractの利用可能性を確認"""
     try:
+        from modules import tesseract_setup
+        tesseract_setup.configure()
         import pytesseract
         pytesseract.get_tesseract_version()
         return True
