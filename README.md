@@ -39,9 +39,12 @@ copy .env.example ..\.env
 
 | 変数名 | 説明 | デフォルト値 |
 |--------|------|-------------|
+| `APP_PASSWORD` | アプリ起動時の共有パスワード（**必須**） | なし |
 | `OPENAI_API_KEY` | OpenAI APIキー（議事録機能用） | なし |
 | `DRAWING_DIR` | 図面フォルダのパス | `図面一覧` |
 | `PROCESS_DIR` | 工程フォルダのパス | `工程一覧` |
+
+> **重要**: `.env` もしくは `.streamlit/secrets.toml` のいずれかに `APP_PASSWORD` を必ずセットしてから `streamlit run app.py` を実行してください。未設定の場合、アプリは明示的なエラーで停止します。社内チーム共有のパスワードを 1 つ発行し、利用メンバー（5〜20 名想定）にのみ配布する運用とします。
 
 ### 3. Popplerのインストール (Windows)
 
@@ -56,6 +59,10 @@ streamlit run app.py
 ```
 
 または `run_app.bat` をダブルクリックしてください。
+
+起動後、ブラウザで開かれる画面に **共有パスワード入力フォーム** が表示されます。`.env` または `.streamlit/secrets.toml` に設定した `APP_PASSWORD` を入力するとアプリ本体が利用できます（セッション中は再入力不要）。
+
+> **トラブル**: 「`APP_PASSWORD` が設定されていません」と表示される場合は、`.env`（または `secrets.toml`）に値がセットされているか、Streamlit プロセスが正しいディレクトリから起動されているかを確認してください。
 
 ### 図面の登録
 
@@ -84,6 +91,8 @@ PROCESS_DIR（工程一覧）/
 | CLIP検索が動かない | `pip install sentence-transformers torch torchvision` を再実行 |
 | 登録図面が0件 | 図面フォルダのパスを `.env` で確認。`run_indexer.bat` を実行 |
 | サイドバーにエラー表示 | ヘルスチェック結果を確認し、該当コンポーネントを修正 |
+| 「Incorrect password」が出る | `.env` / `secrets.toml` の `APP_PASSWORD` と入力値が一致しているか確認（前後の空白に注意） |
+| 「APP_PASSWORD が設定されていません」 | プロジェクトルート `.env` または `src/.streamlit/secrets.toml` に `APP_PASSWORD` を記入して再起動 |
 
 ## ログ
 

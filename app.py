@@ -4,6 +4,7 @@ from PIL import Image
 
 from modules.config import Config
 from modules.logger import get_logger
+from modules.auth import check_password
 
 logger = get_logger('app')
 
@@ -140,6 +141,12 @@ st.markdown("""
     .health-ng { color: #ef4444 !important; }
 </style>
 """, unsafe_allow_html=True)
+
+# ========================================
+# 認証ゲート（共有パスワード方式）
+# 正解までは以降の本体処理を一切描画しない
+# ========================================
+check_password()
 
 # ========================================
 # 起動時自動同期（差分インデクシング）
